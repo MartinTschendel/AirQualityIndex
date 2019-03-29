@@ -10,4 +10,6 @@ This [web-page](https://www.taniarascia.com/how-to-connect-to-an-api-with-javasc
 
 I understand there is a html page what provides a user surface. The js script sends a request to the AQI page and we get a json back. Now this json has to be ideally converted to a csv. The data from the csv can be further analyzed.
 
-At first I will try to follow the explanation from Tania Rascia, then I try to transfer the knowledge to the AQI project.
+19-03-29: managed it to get a json file via the requests library
+
+

@@ -14,3 +14,5 @@ I understand there is a html page what provides a user surface. The js script se
 
 19-03-29: extracted data from json file and inserted it into pandas dataframe
 
+19-03-30: tried to write a time loop and append new rows to dataframe
+

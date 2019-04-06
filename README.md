@@ -17,3 +17,5 @@ I understand there is a html page what provides a user surface. The js script se
 19-03-30: tried to write a time loop and append new rows to dataframe
 
 19-04-02: found a method to append new rows to dataframe; still don't know how to harmonize the columns (small project for next days:))
+
+19-04-05: harmonized the columns (final data frame has three columns (City, Time, AQI) and respective values

@@ -21,3 +21,5 @@ I understand there is a html page what provides a user surface. The js script se
 19-04-05: harmonized the columns (final data frame has three columns (City, Time, AQI) and respective values
 
 19-04-06: with city_list, I can get data from different cities and add it to the dataframe. Next step would be to run this code for 2 or 3 hours and get different values for the cities
+
+19-04-08: API does not react, will try it later once again
